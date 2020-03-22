@@ -1,0 +1,2 @@
+rootProject.name='Custom Layout'
+include ':app'
